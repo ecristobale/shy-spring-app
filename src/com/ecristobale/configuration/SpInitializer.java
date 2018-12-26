@@ -11,12 +11,14 @@ public class SpInitializer extends AbstractAnnotationConfigDispatcherServletInit
 
 	@Override
 	protected Class<?>[] getServletConfigClasses() {
-		return null;
+		return new Class[] { SpServletConfiguration.class };
 	}
 
 	@Override
 	protected String[] getServletMappings() {
 		return new String[] {"/"};
 	}
+	
+	
 
 }

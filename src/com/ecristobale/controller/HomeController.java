@@ -6,11 +6,12 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
-@RequestMapping("/test")
-public class MainScreenController {
+@RequestMapping("/")
+public class HomeController {
 
-	@GetMapping("/initialTest")
+	@GetMapping
 	public String mainScreen(Model theModel) {
+		theModel.addAttribute("helloWorld", "hello world!");
 		return "index";
 	}
 }

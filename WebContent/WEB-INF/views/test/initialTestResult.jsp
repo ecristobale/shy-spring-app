@@ -6,7 +6,7 @@
 <html>
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-	<title>Trabajar la timidez - test inicial</title>
+	<title>Trabajar la timidez - resultado test inicial</title>
 	<link type="text/css"
 		  rel="stylesheet"
 		  href="${pageContext.request.contextPath}/resources/css/style.css" />
@@ -14,22 +14,16 @@
 <body>
 	<div id="wrapper">
 		<div id="header">
-			<h2>Test inicial</h2>
+			<h2>Resultado Test inicial</h2>
 		</div>
 	</div>
 	
 	<div id="container">
 		<div id="content">
-			<form:form action="initialTestResult" modelAttribute="initialTestWrapper" method="POST">
+			Tienes una puntuación de: ${totalPunctuation} 
+			<br/>
+			Resultado: ${initialTestResult}
 			
-				<!-- loop over and print each question -->
-				<c:forEach items="${initialTestWrapper.questionsList}" var="tempQuestion" varStatus="rowItem">
-					<label>${rowItem.index + 1}. ${tempQuestion.question}</label>
-					<form:input path="questionsList[${rowItem.index}].punctuation" />
-					<br/>
-				</c:forEach>
-				<input type="submit" value="Enviar">
-			</form:form>
 		</div>
 	</div>
 	<a href="../">Volver al menú principal</a><br/>

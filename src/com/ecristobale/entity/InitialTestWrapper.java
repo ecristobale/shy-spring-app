@@ -6,6 +6,8 @@ public class InitialTestWrapper {
 
 	private List<Question> questionsList = null;
 
+	public InitialTestWrapper() {}
+
 	public InitialTestWrapper(List<Question> questionsList) {
 		this.questionsList = questionsList;
 	}

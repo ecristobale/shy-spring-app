@@ -9,6 +9,7 @@ public class Question {
 	
 	public Question(String question) {
 		this.question = question;
+		//this.punctuation = punctuation;
 	}
 
 	public String getQuestion() {

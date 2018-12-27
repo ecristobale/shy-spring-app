@@ -1,8 +1,8 @@
 package com.ecristobale.dao;
 
-import com.ecristobale.entity.Question;
+import com.ecristobale.entity.InitialTestWrapper;
 
 public interface InitialTestDAO {
 
-	public Question[] getInitialTest();
+	public InitialTestWrapper getInitialTest();
 }

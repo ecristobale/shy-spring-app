@@ -18,7 +18,7 @@ public class MainScreenController {
 	@GetMapping("/initialTest")
 	public String mainScreen(Model theModel) {
 		// Load questions to the model
-		theModel.addAttribute("questions", initialTestService.getInitialTest());
+		theModel.addAttribute("initialTestWrapper", initialTestService.getInitialTest());
 		return "/test/initialTest";
 	}
 }

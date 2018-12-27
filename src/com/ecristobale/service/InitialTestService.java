@@ -1,8 +1,8 @@
 package com.ecristobale.service;
 
-import com.ecristobale.entity.Question;
+import com.ecristobale.entity.InitialTestWrapper;
 
 public interface InitialTestService {
 
-	public Question[] getInitialTest();
+	public InitialTestWrapper getInitialTest();
 }

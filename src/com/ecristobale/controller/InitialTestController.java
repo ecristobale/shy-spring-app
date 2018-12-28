@@ -12,8 +12,8 @@ import com.ecristobale.entity.InitialTestWrapper;
 import com.ecristobale.service.InitialTestService;
 
 @Controller
-@RequestMapping("/test")
-public class MainScreenController {
+@RequestMapping("/theory")
+public class InitialTestController {
 
 	@Autowired
 	InitialTestService initialTestService;

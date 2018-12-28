@@ -20,8 +20,9 @@
 	<div id="container">
 		<div id="content">
 			<a href="test/initialTest">1. Test inicial</a><br/>
-			<a href="pensNeg/identificacion">2. Pensamientos negativos</a><br/>
-			<a href="actuar/experimentar">3. Actuación</a><br/>
+			<a href="theory/concepts">2. Conceptos clave</a><br/>
+			<a href="pensNeg/identificacion">3. Pensamientos negativos</a><br/>
+			<a href="actuar/experimentar">4. Actuación</a><br/>
 		</div>
 	</div>
 </body>

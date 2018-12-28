@@ -12,7 +12,7 @@ import com.ecristobale.entity.InitialTestWrapper;
 import com.ecristobale.service.InitialTestService;
 
 @Controller
-@RequestMapping("/theory")
+@RequestMapping("/test")
 public class InitialTestController {
 
 	@Autowired

@@ -42,6 +42,31 @@
 				</tr>
 			</table>
 			
+			<br/>
+			
+			<table>
+				<caption>Ansiedad: elementos de respuesta</caption>
+				<tr>
+					<td>Cognitivo</td>
+					<td>Lo que pensamos: interpretación terrible</td>
+					<td>Automático</td>
+				</tr>
+				<tr>
+					<td>Fisiológico</td>
+					<td>Cambios para poner al cuerpo en condiciones óptimas: 
+						<br/>Sudor, temblor, tensión muscular</td>
+					<td>Automático</td>
+				</tr>
+				<tr>
+					<td>Conductual</td>
+					<td>Acciones para sentirte 'mejor'.<br/>
+					    Enfocadas a reducir el nivel de malestar.<br/>
+					    Enfocadas a evitar que suceda lo que se teme.<br/>
+					    Tipos: Conductas de evitación y de escape.</td>
+					<td>Voluntario</td>
+				</tr>
+			</table>
+			
 		</div>
 	</div>
 	<a href="../">Volver al menú principal</a><br/>

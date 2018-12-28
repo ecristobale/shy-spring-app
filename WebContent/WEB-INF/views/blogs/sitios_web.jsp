@@ -13,18 +13,18 @@
 <body>
 	<div id="wrapper">
 		<div id="header">
-			<h2>Trabajar la timidez</h2>
+			<h2>Trabajar la timidez - Contenido web</h2>
 		</div>
 	</div>
 	
 	<div id="container">
 		<div id="content">
-			<a href="test/initialTest">1. Test inicial</a><br/>
-			<a href="theory/concepts">2. Conceptos clave</a><br/>
-			<a href="pensNeg/identificacion">3. Pensamientos negativos</a><br/>
-			<a href="actuar/experimentar">4. Actuación</a><br/>
-			<a href="blogs/sitios_web">5. Visita contenido en la red</a><br/>
+			<a href="http://superandomitimidez.blogspot.com/2011/01/soy-timido.html">Blog superandotimidez</a><br/>
+			<a href="https://follamigos.com/blog/consejos/estudio-cientifico-demuestra-como-vencer-a-la-timidez-en-21-dias/">Vencer la timidez en 21 días (follamigos)</a><br/>
+			<a href="https://habilidadsocial.com/como-vencer-la-timidez/">Vencer la timidez, 10 claves científicas (habilidadsocial)</a><br/>
+			<a href="https://www.youtube.com/watch?v=rWM16ZwY27A">5 pasos más allá de la fobia social</a><br/>
 		</div>
 	</div>
+	<a href="../">Volver al menú principal</a><br/>
 </body>
 </html>

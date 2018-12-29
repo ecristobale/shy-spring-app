@@ -38,7 +38,7 @@
 				<tr>
 					<td>¿Cuándo es mala?</td>
 					<td>Cuando se activa en situaciones donde no es necesaria.<br/>
-					Hablamos de trastorno de ansiedad.</td>
+					No hablamos de ansiedad si no de trastorno de ansiedad.</td>
 				</tr>
 			</table>
 			

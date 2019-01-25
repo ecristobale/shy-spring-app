@@ -21,7 +21,7 @@
 		<div id="content">
 			<a href="test/initialTest">1. Test inicial</a><br/>
 			<a href="theory/concepts">2. Conceptos clave</a><br/>
-			<a href="pensNeg/identificacion">3. Pensamientos negativos</a><br/>
+			<a href="negThoughts/identifying">3. Pensamientos negativos</a><br/>
 			<a href="actuar/experimentar">4. Actuación</a><br/>
 			<a href="blogs/sitios_web">5. Visita contenido en la red</a><br/>
 		</div>
